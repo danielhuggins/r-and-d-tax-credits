@@ -1,4 +1,4 @@
-# Qualifying R&D Projects (2025)
+# Qualifying R&D Projects
 
 Total of **2** R&D projects undertaken during this claim period (activity ran throughout 2025; reporting work was preliminary prior to May and became substantively applied thereafter).
 
@@ -51,7 +51,7 @@ These uncertainties were not readily deducible by a competent professional at th
 
 The competent professionals undertook a systematic programme of design, prototyping, and testing to determine feasible execution and evaluation semantics.
 
-#### Representative experiments (hypothesis → test → outcome)
+#### Representative experiments
 
 * **Experiment 1: Tree-flow vs execution-graph semantics**
 
@@ -84,11 +84,11 @@ The competent professionals undertook a systematic programme of design, prototyp
 
 **Why R&D did not end:** uncertainty remained around regression anchoring and replayability under ongoing feature expansion; therefore, the work had not reached a point where uncertainties were fully resolved/codified across the intended capability envelope.
 
-#### Qualifying vs routine activities (boundary statement)
+#### Qualifying vs routine activities
 
 Qualifying activities relate to resolving uncertainties in execution modelling, dataflow semantics, artefact lineage/traceability, and regression anchoring for qualitative multi-step workflows. Routine activities excluded include general UI styling, standard product engineering, and non-novel implementation work not directly required to resolve the above uncertainties. UI work only qualified where instrumental to enabling traceability review and version-to-version comparison.
 
-## PROJECT 2: Scratchpad-Driven Verbal-Reasoning Reporting System (Candidate–Role–Team Fit)
+## PROJECT 2: Scratchpad-Driven Verbal-Reasoning Reporting System
 
 **Engineering and technology > Information engineering / Software engineering**  
 **Partially resolved in-period; ongoing** (prototype with functional characteristics achieved around October; new/continuing uncertainties remained in replayability under feature extension)
@@ -130,13 +130,13 @@ These uncertainties were not readily deducible by a competent professional becau
 
 The team undertook systematic experimentation and prototyping, using Scratchpad as enabling tooling.
 
-#### Concrete mechanisms implemented (examples)
+#### Concrete mechanisms implemented
 
 * **Intermediate representation (“Issue Register”):** generate a structured issue list including priority scores and references to the specific inputs/artefacts that support each issue, prior to prose generation. This was designed to reduce unsupported claims and to provide a stable assembly target.
 * **Critic pass placement:** apply critique/review stages after issue generation and prior to prose assembly to identify contradictions and weakly supported issues before they become embedded in narrative text.
 * **Versioned chains and batch evaluation:** pin chain/prompt versions per build and rerun fixed samples to compare outputs and detect regressions, supporting replayability and controlled iteration.
 
-#### Representative experiments (hypothesis → test → outcome)
+#### Representative experiments
 
 * **Experiment 1: Single-pass narrative vs intermediate representation**
 
@@ -173,11 +173,11 @@ The system was intentionally designed to elicit human tacit judgement rather tha
 
 **Why R&D continued beyond that point:** while a client-usable workflow existed, uncertainties persisted around replayability/stability when adding new features while preserving prior behaviour. Accordingly, work to resolve those uncertainties remained qualifying where it directly addressed those unresolved technological uncertainties.
 
-#### Qualifying vs routine activities (boundary statement)
+#### Qualifying vs routine activities
 
 Qualifying activities relate to resolving uncertainties around consistency, substantiation/grounding, traceability, replayability, and regression anchoring in a multi-step qualitative NLP pipeline. Routine activities excluded include general UI/UX styling and layout, client-specific content work, and standard product engineering. UI/visual work is only qualifying where it was instrumental to enabling traceability review (e.g., presenting trace links and version comparisons) or to validating the underlying technological mechanisms.
 
-## Competent professionals and evidence (applies to both projects)
+## Competent professionals and evidence
 
 The R&D programme was led by **Daniel Huggins**, who provided competent professional judgement on the technological uncertainties and feasibility in software engineering/NLP pipeline design, execution modelling, and evaluation mechanisms.
 
