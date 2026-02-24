@@ -1,4 +1,4 @@
-Technological and scientific objectives *
+# Technological and scientific objectives *
 
 (1.1) During the claim period (January 2025 to December 2025), the technological advance sought was to develop a new, software-enabled method for structuring and developing deep, multi-step qualitative NLP analyses using Large Language Models (LLMs). In particular, this method was intended to make it possible to execute complex, interdependent analytical prompt chains comprising 10 or more dependent steps for verbal reasoning. If successful, this would represent an increase in overall knowledge and capability in the field and, therefore, aligns with Paragraph 9(b) of the DSIT Guidelines.
 
@@ -15,7 +15,7 @@ Technological and scientific objectives *
 (4.1) Overall, the R&D work undertaken represented an advance relative to the baseline knowledge and capabilities that existed in the public domain. Consequently, the R&D efforts align with Paragraphs 6 and 20 of the DSIT Guidelines.
 
 
-Existing technological and scientific solutions and knowledge *
+# Existing technological and scientific solutions and knowledge *
 
 (1.1) For context, The Developing Leaders Partnership Limited specialises in the engineering of high-fidelity, data-driven systems that translate qualitative ‘leadership’ metrics into actionable organisational development strategies. 
 
@@ -36,7 +36,7 @@ Existing technological and scientific solutions and knowledge *
 (5.1) The technical team was led by the competent professional, Daniel Huggins, who was The Developing Leaders Partnership Limited’s Co-Founder and Head of Research. Daniel holds a Master’s degree in Maths from Durham University and has 14 years of experience working in the field.
 
 
-Technological and scientific uncertainties *
+# Technological and scientific uncertainties *
 
 (1.1) During the claim period (January 2025 to December 2025), technological uncertainty lay in how to create a new audible and stable reporting system capable of multi-step qualitative reasoning. Within this overarching uncertainty existed a number of smaller, more specific uncertainties. The following section provides examples of these.
 
@@ -53,7 +53,7 @@ Technological and scientific uncertainties *
 (6.1) Work done to overcome these technological uncertainties is described in the next section.
 
 
-R&D activities to resolve technical and scientific challenges *
+# R&D activities to resolve technical and scientific challenges *
 
 (1.1) In an effort to overcome the aforementioned technological uncertainties encountered during the claim period (January 2025 to December 2025), the team of competent professionals elected to undertake a programme of R&D comprising technological planning, iterative design and testing, and prototyping. Given the size and scope of the R&D efforts, the following highlights examples of work undertaken.
 
@@ -72,4 +72,3 @@ R&D activities to resolve technical and scientific challenges *
 (5.1) To overcome uncertainty concerning replayability and regression anchoring, both workflow and prompt versions were pinned for each build; this involved tying each testable configuration to an explicit versioned bundle (comprising workflow graph definitions, prompt text, and model settings) to ensure that qualitative inputs could be re-executed against an identical configuration. Fixed sample sets were run in batches to measure behavioural shifts. For mature pinned workflows, the team established a working tolerance of approximately 5 % maximum divergence, with several review batches achieving zero material failures across approximately 30 repeated executions.
 
 (6.1) Overall, whilst a number of technological uncertainties have been overcome in this claim period, several uncertainties remained unresolved; for example, there was still uncertainty around achieving dependable multidimensional regression detection at deep-chain depth under stochastic model behaviour. As such, the R&D project was ongoing into the next claim period (beyond December 2025).
-
