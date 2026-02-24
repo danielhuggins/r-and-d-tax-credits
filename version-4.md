@@ -3,7 +3,7 @@
 Total of **2** R&D projects undertaken during this claim period (activity ran throughout 2025; reporting work was preliminary prior to May and became substantively applied thereafter).
 
 Scratchpad Workflow Platform – Data-Integrated Structured Reasoning Tooling  
-Scratchpad-Driven Verbal-Reasoning Reporting System (Candidate–Role–Team Fit)
+Scratchpad-Driven Verbal-Reasoning Reporting System
 
 ## PROJECT 1: Scratchpad Workflow Platform – Data-Integrated Structured Reasoning Tooling
 
