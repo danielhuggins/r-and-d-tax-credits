@@ -1,0 +1,279 @@
+
+Home
+Claim Dashboard
+Manage Claim Team
+Help
+Open user menu
+Open sidebar
+Project - Stable Multi-Step Verbal-Reasoning Prompt Chains
+Show some tips for answering this
+We understand you may use AI to support draft your responses. Please ensure that everything you provide accurately reflects the work you carried out during this period and within this project. Your answers should be specific and include the relevant technological detail.
+
+Your Project section has already been reviewed. If you make further changes here, we will need to review them before you can submit your claim. Please ensure you send for review again once you're satisfied with your changes.
+
+Step 1: Project Details
+4 / 4
+Section assigned to Lisa M
+Mark as complete
+Project Title *
+When naming projects, consider grouping similar R&D activities and workstreams together. Keep in mind that a single commercial endeavour does not necessarily equate to one R&D project, as it may encompass multiple R&D initiatives.
+
+Stable Multi-Step Verbal-Reasoning Prompt Chains
+Main Field of Science and Technology *
+Please use the drop-down menu to select the most relevant field of science or technology for your R&D project. Keep in mind that this may differ from the field in which your business typically operates.
+
+Engineering and technology > Electrical engineering, electronic engineering, information engineering
+Project Start Date *
+Please enter the exact date the R&D project began; it may have begun before or during the current claim period.
+
+
+01/10/2024
+Project Continuation Status *
+At the end of the claim period, did the R&D project continue into the next claim period?
+
+Yes
+No
+Step 2: Competent Professional
+4 / 4
+Section assigned to Lisa M
+Section Completed
+Step 3: Advance and Baseline
+0 / 2
+Section assigned to you & others
+Mark as complete
+Technological and scientific objectives *
+HMRC refers to this as an 'advance' section. Here, you should explain as a list of bullet points what you set out to do at the start of the claim period 1st January 2025; this should be written in a way that someone without a technical background can understand. Focus on your goals, not the results, and leave out anything commercial-related.
+
+Please also consider the following:
+Overall goal: What was your main aim? For example, did you aim to: (1) create something entirely new; (2) reproduce something that already exists in a new way; or (3) improve an existing technology?
+Sub goals: Break down your main goal into smaller, specific objectives.
+Qualitative and quantitative metrics: Include measurable indicators wherever possible
+Impact: Explain how this R&D project has influenced your field/industry on a scientific or technological level.
+Newfound knowledge: If applicable, please provide details on whether you shared your findings via any publications or patents.
+
+
+(1.1) During the claim period (January 2025 to December 2025), the technological advance sought was to develop a new, software-enabled method for developing and structuring deep, multi-step qualitative NLP analyses using Large Language Models (LLMs). In particular, this method was intended to make it possible to develop complex, interdependent analytical prompt chains comprising 10 or more dependent steps for verbal reasoning. If successful, this would represent an increase in overall knowledge and capability in the field and, therefore, aligns with Paragraph 9(b) of the DSIT Guidelines.
+
+
+
+(2.1) To achieve the advance, and as part of the advance, the team of competent professionals needed to engineer a dependable prompt-chain iteration method for deep (10+ step) analytical chains, such that complex verbal-reasoning chains could be created and incrementally improved despite stochastic, black-box model behaviour and compounding downstream effects. The team planned to achieve this by developing a system to reliably & simultaneously measure chain performance across multiple dimensions and an integrated human-in-the-loop meta-LLM workflow for automated diagnosis and prompt-step revision.
+
+
+
+
+
+(2.2) If successful, the R&D project would demonstrate that deep prompt chains are a reliable engineering technique for long-chain analytical reporting, especially as they could turn source artefacts into structured, usable written analyses through multiple interdependent reasoning steps.
+
+
+
+(2.3) In addition to that mentioned above, the success of the R&D project hinged on the ability to repeatedly execute these 10 or more-step verbal-reasoning chains with an end-to-end failure rate of less than 5 %. To enable manageable levels of iteration, the team sought to develop a capability that allowed small changes to a single step to be made without causing non-local regressions, at most 200 % of the time it takes to iterate a prompt of equivalent complexity in isolation.
+
+
+
+(3.1) Further technological objectives included engineering high-precision regression-detection capabilities. In particular, the team aimed to detect 99.9 % of major regressions (defined as changes that reduce end-to-end success below the 95 % requirement) while also detecting 95 % of minor regressions that represent measurable reductions in specific quality dimensions. Achieving these targets required the development of Large Language Model (LLM)-based meta-tools to accelerate iteration, detect quality regressions, and monitor progress towards domain-specific improvement targets.
+
+
+
+(3.2) Other competent professionals working in the field would recognise this as a technological advance because it required the creation of a practical engineering pattern where reasoning was structured, audited, and iterated before final narrative assembly; this represented an increase in capability beyond ‘routine’ prompt-chaining as it integrated formal regression controls and explicit trace links back to source inputs. In doing so, this ensured that analytical-reporting chains could be updated within a predictable validation effort rather than having to guess and try different things.
+
+
+
+(4.1) Overall, the R&D work undertaken represented an advance relative to the baseline knowledge and capabilities that existed in the public domain. Consequently, the R&D efforts align with Paragraphs 6 and 20 of the DSIT Guidelines.
+
+Answer Strength
+Most answers here are shorter than this
+
+Save Changes
+Existing technological and scientific solutions and knowledge *
+HMRC refers to this as the 'baseline' section. Please outline (typically three to five paragraphs) what global knowledge and capabilities were available at the start of the claim period 1st January 2025.
+
+Please also consider the following:
+From a technological/scientific standpoint, what prompted the R&D project? For example, did you see a system lacking in a certain functionality or capability?
+At the time, what was regarded as generally accepted or standard practice in the field of science or technology? Did you review any trade literature or publications? If so, give specific examples.
+Could you provide specific examples of technologies/scientific solutions that offer similar/comparable capabilities to what you were developing?
+
+
+Disclaimer: The following R&D project focuses on integrating Artificial Intelligence (AI) for NLP. In this pursuit, The Developing Leaders Partnership Limited acknowledges that AI’s understanding of human sentiment is related to languages and linguistics, a social science, which does not qualify for R&D tax purposes (as per paragraph 15A of the DSIT Guidelines). As a result, The Developing Leaders Partnership Limited has only claimed for R&D efforts relating to the engineering of backend software components.
+
+
+
+(1.1) For context, The Developing Leaders Partnership Limited specialises in the engineering of high-fidelity, data-driven systems that translate qualitative ‘leadership’ metrics into actionable organisational development strategies.
+
+
+
+(2.1) During their prior claim period (January 2024 to December 2024), their team developed software tools, known as Scratchpad and RetortJS, to support the development of prompt chains. Their team had used these tools to build and run reliable, structured multi-step analyses using LLMs, creating short analytical reports comprising 500 words or less using short prompt chains of 4 or fewer steps, and standard industry methodologies such as representative test sets and version-to-version output comparisons with human spot-checking.
+
+
+
+(2.2) At the start of the current claim period (January 2025), the team had determined that short chains and standard industry methodologies would not be sufficient to produce self-consistent reports of 10000 words or more.
+
+
+
+(3.1) Prior to undertaking the R&D activities described in the ‘overcome’ section of this technical report, the team reviewed the knowledge and capabilities in the public domain. During this assessment, the team found that whilst existing data-to-text systems could transform structured datasets into narrative summaries utilising predefined templates or single-pass natural language generation models, they were fundamentally incapable of performing multi-step analytical reasoning on qualitative inputs or articulating intermediate reasoning stages for human audit.
+
+
+
+(3.2) Conversely, the team evaluated ‘off-the-shelf’ LLM-based systems and agent-oriented frameworks which prioritised speed and autonomy over conservative, explanatory analysis. From a software engineering perspective, these platforms lacked established mechanisms to enforce global consistency across deep, multi-stage pipelines. More specifically, the platforms did not address the challenge of maintaining consistency in non-deterministic distributed reasoning, a problem analogous to the Consistency, Availability, and Partition Tolerance (CAP) Theorem in distributed databases, where local outputs might be plausible but globally contradictory. In particular, the team found no apparent/existing prompt-chaining techniques with a proven implementation path to anchor regressions or maintain end-to-end traceability from conclusions back to source inputs.
+
+
+
+(3.3) Evaluation of emerging research and prototype techniques, such as Automatic Prompt Engineer (APE) and Optimised Prompt Result (OPRO), revealed that they generally assumed clearer objective functions than are typical in deep analytical settings. While tools like LangSmith and OpenAI Evals provided reference approaches for dataset-based evaluation and rubric-style grading, they did not offer a dependable, generally repeatable way to create and iterate deep, highly interdependent prompt chains. 
+
+
+
+(3.4) At the start of 2025, the field understood that LLMs behaved as stochastic, non-deterministic ‘black-box’ systems where the same input could produce meaningfully different outputs across runs. Consequently, the development of long chains with many interacting quality requirements remained regression-prone and labour-intensive, with limited ability to control non-local regressions across the chain.
+
+
+
+(4.1) Overall, because of these aforementioned technical limitations, the team of competent professionals found that these systems and agent frameworks could not be readily adapted or modified to meet their set of targeted outcomes. Additionally, the knowledge and capabilities in the public domain did not provide sufficient technical detail or know-how to readily deduce how to achieve the technological advance. As such, the team elected to continue their programme of R&D.
+
+
+
+(5.1) The technical team was led by the competent professional, Daniel Huggins, who was The Developing Leaders Partnership Limited’s Co-Founder and Head of Research. Daniel holds a Master’s degree in Maths from Durham University and has 14 years of experience working in the field.
+
+Answer Strength
+Most answers here are shorter than this
+
+Save Changes
+Step 4: Uncertainties and Work Completed
+0 / 2
+Section assigned to you & others
+Mark as complete
+Since this project spans beyond this claim period, make sure you only describe the technological uncertainties faced and overcome during this claim period.
+
+Technological and scientific uncertainties *
+HMRC calls this the 'uncertainty' section. In this part, you should describe the top three technological or scientific challenges you expected (i.e. "known unknowns") at the start of your claim period 1st January 2025.
+
+Typically, write one to two paragraphs for each challenge.
+You do not need to explain how you overcame them yet; that comes in the next section.
+For each challenge, explain why it was difficult and why someone else in your field would also see it as a scientific or technological hurdle.
+The challenges should be technological or scientific, not commercial, regulatory, or logistical.
+Just being "bespoke" or "unique" does not automatically make something a scientific or technological challenge.
+
+
+(1.1) During the claim period (January 2025 to December 2025), technological uncertainty lay in how to create a new audible and stable reporting system capable of multi-step qualitative reasoning. Within this overarching uncertainty existed a number of smaller, more specific uncertainties. The following section provides examples of these.
+
+
+
+(2.1) Specific technological uncertainty revolved around whether deep analytical prompt chains comprising 10 or more interdependent steps could achieve sufficient dependability in a production environment. In particular, it was unknown whether a stable operating point existed for chains of this depth, as reliability was expected to degrade with each successive step; for example, a 99 % success rate per step yields only approximately 90 % reliability over 10 steps. As LLMs operate as stochastic, nondeterministic ‘black-box’ systems, a competent professional working in the field at the time could not confidently predict whether acceptable end-to-end failure rates of less than 5 % were achievable.
+
+
+
+(2.2) Additional uncertainty was identified in the instruction load sensitivity of these models, where adding constraints or additional instructions often degraded performance across multiple dimensions rather than improving it. Specifically, it was unknown how to balance complex analytical instructions with the inherent context window limitations of the models without causing a degradation in the reasoning quality of the downstream steps; this presented a significant technical barrier, as the team could not anticipate ahead of time which seemingly minor edits to a prompt would produce unexpected degradations in output quality.
+
+
+
+(3.1) Moreover, they were uncertain whether deep analytical prompt chains could be changed at a single-step level without small upstream variations subtly altering an intermediate artefact, which in turn altered the input distribution for downstream steps and cascaded into materially different outcomes; this was considered a major technological challenge because stochastic model variation and complex chain interaction effects can mask or mimic genuine changes, making regressions difficult to detect and attribute within nondeterministic pipelines.
+
+
+
+(4.1) Further technological uncertainty lay around whether LLMs could be utilised as dependable meta-tools to diagnose failure patterns and propose coherent revisions across a complex chain. More specifically, there were concerns around whether an LLM-as-judge could reliably guide multi-dimensional qualitative constraints (such as correctness, analysis quality, and structure) rather than merely executing explicitly specified edits. At the start of the claim period (January 2025), there was no generally accepted method showing that automated diagnosis and revision could be relied upon to guide prompt-chain iteration in this difficulty class without introducing plausible but technically incorrect judgments.
+
+
+
+(5.1) Furthermore, technological uncertainty existed in how to achieve end-to-end traceability and behavioural stability. To expand on this, the team questioned whether trace links could be maintained from conclusions back through multiple intermediate transformations to the source inputs without incurring undue fragility. As qualitative outputs were susceptible to subtle variations stemming from probabilistic token sampling and hardware-level precision differences, maintaining the integrity of decision-support outputs while extending system capabilities remained a core unknown.
+
+
+
+(6.1) Work done to overcome these technological uncertainties is described in the next section.
+
+Answer Strength
+Most answers here are shorter than this
+
+Save Changes
+R&D activities to resolve technical and scientific challenges *
+HMRC refers to this as the 'overcome' section. In this section, you will need to describe the R&D activities undertaken between 1st January 2025 and 31st December 2025 to address and resolve the three key technological/scientific challenges outlined previously.
+
+A few things to keep in mind:
+Focus on the tricky parts: Highlight only the most complex or groundbreaking aspects, not the entire project.
+Link problems to challenges: Show how any failures or setbacks relate to specific challenges.
+Explain your approach: Describe the technological or scientific processes, tools, instruments, or components you used.
+Lastly, if the R&D project is continuing beyond 31st December 2025, please briefly detail any ongoing scientific/technological challenges.
+
+
+Hi, I thought I would explain the issue here. Initially i created two separate projects, but they ended up overlapping too much, so i rewrote this one, changing it so it's separate and closer to what i originally intended. 
+
+
+
+Apologies for causing this confusion.
+
+
+
+We're trying to create long, deep, analytical prompt chains, and run them reliably in both development in production. 
+
+
+
+The other project is about the tooling for arranging, developing, testing, editing & running these prompt chains. 
+
+
+
+This project is about research into structuring those prompt chains to work at depth, using LLMs to enhance prompt chains, and research into techniques to manage the problems that arise in long prompt chains, particularly when there is a large number of dimensions to optimize for.
+
+
+
+The advance sought was the ability to create and iterate long and deep prompt chains (for verbal reasoning), to be able to iterate on these prompt chains - for example dealing with fragility, and to be able use LLMs to be assist to create & enhance these prompt chains. 
+
+
+
+The other project was about the tooling to support this project.
+
+
+
+We used the Scratchpad in this project, and had it been continued we would have used RetortJS, but they aren't the focus of this project though they can be mentioned.
+
+
+
+Please can you tweak this project so it is re-focused on it's goals. The revision i completed Sunday/monday should describe this.
+
+
+
+
+
+
+
+(1.1) In an effort to overcome the aforementioned technological uncertainties encountered during the claim period (January 2025 to December 2025), the team of competent professionals elected to undertake a programme of R&D comprising technological planning, iterative design and testing, and prototyping. Given the size and scope of the R&D efforts, the following highlights examples of work undertaken.
+
+
+
+(1.2) To note, at the beginning of the claim period (January 2025), the team decided to discontinue the RetortJS successor branch and continue development on the predecessor architecture lineage, known as Scratchpad, because it provided stronger support for data-centric workflow development and non-technical iteration. 
+
+
+
+(2.1) To address technological uncertainty inherent in achieving adequate grounding and substantiation within deep prompt chains, the team developed and implemented an intermediate, structured representation, the Issue Register; this register functioned as a state-management layer that documented prioritised analytical issues, cross-referenced with specific input data and supporting artefacts. By adopting this approach, the team successfully decoupled analytical reasoning from narrative prose generation; this required issue identification and prioritisation to occur as explicit intermediate artefacts, with narrative assembly deferred until these reasoning tasks had been completed and verified against source evidence.
+
+
+
+(2.2) To test the feasibility of dependable deep analytical chains at the required depth, the team built a pilot prompt chain on OpenAI-family models focused on data interpretation, analysis, and prose rendering. The team initially observed an end-to-end success rate of approximately 2 % and undertook a systematic programme of iteration toward a 95 % success threshold; this involved testing prompt-step variations, comparing output batches, and analysing recurring failures. Additionally, the team maintained a database of prompt changes and observed effects across quality dimensions to guide iteration and manage instruction load by redistributing requirements across steps.
+
+
+
+(3.1) To address uncertainty about non-local downstream regressions, the team initially changed prompt-step edits to preserve the shape of intermediate artefacts. However, they found that as the 95 % success threshold was approached, this method became impractical for deep chains, as only very small changes reliably avoided downstream effects. Consequently, the team shifted to a power-through systematic approach: treating downstream regressions as expected while utilising Gemini’s separate analysis capabilities to rapidly attribute breakage to specific step-to-step interface changes. Using this diagnostic knowledge, the team was able to rapidly draft and re-test compensating downstream prompt edits to restore system integrity.
+
+
+
+(3.2) The team also integrated evaluation and improvement stages at multiple points throughout the Scratchpad pipeline to address the uncertainty of maintaining cross-sectional consistency. These stages were inserted after key intermediate reasoning outputs and following final prose assembly to test whether local conclusions remained consistent with upstream assumptions. Subsequent experiments comparing pre-assembly and post-assembly evaluation placement revealed that earlier placement reduced contradiction rates, particularly when subject attributes were inconsistently characterised across sections, such as discrepancies between a curriculum vitae and a psychological assessment.
+
+
+
+(4.1) To address uncertainty about the use of LLMs as dependable meta-tools, the team trialled rubric-style LLM-as-judge prompts in a batch-evaluation harness to compare chain versions. Initial attempts at single-pass judging proved difficult to align with multidimensional, partly tacit criteria such as correctness and analysis quality. Furthermore, because outputs and judgments were non-deterministic, reducing variance required repeated runs, which became computationally and temporally impractical. To resolve this, the team iterated an interactive, human-in-the-loop conversational meta-prompt workflow using Gemini and later O3 models. By supplying concrete failure examples and constraints, the team utilised the LLM to analyse step outputs and pattern-find across output batches to guide the generation of targeted edit candidates.
+
+
+
+(5.1) To overcome uncertainty concerning replayability and regression anchoring, both workflow and prompt versions were pinned for each build; this involved tying each testable configuration to an explicit versioned bundle (comprising workflow graph definitions, prompt text, and model settings) to ensure that qualitative inputs could be re-executed against an identical configuration. Fixed sample sets were run in batches to measure behavioural shifts. For mature pinned workflows, the team established a working tolerance of approximately 5 % maximum divergence, with several review batches achieving zero material failures across approximately 30 repeated executions.
+
+
+
+(6.1) Overall, whilst a number of technological uncertainties have been overcome in this claim period, several uncertainties remained unresolved; for example, there was still uncertainty around achieving dependable multidimensional regression detection at deep-chain depth under stochastic model behaviour. As such, the R&D project was ongoing into the next claim period (beyond December 2025).
+
+Answer Strength
+Your answer exceeds the recommended word-limit. Please shorten it.
+
+Save Changes
+Project assigned to Lisa M
+Mark Project as complete
+
+Save All Changes
+
+Delete Project
+
+Send Project For Review
